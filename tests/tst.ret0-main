@@ -1,0 +1,2 @@
+(gen-fundef
+  '(func main ((void)) int (return 0)))
