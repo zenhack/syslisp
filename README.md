@@ -1,3 +1,6 @@
+NOTICE: I'm not working on this anymore; I still think the idea is
+worthwhile, but this repository is abandoned.
+
 A racket library for generating c code.
 
 The idea is, you can write:
